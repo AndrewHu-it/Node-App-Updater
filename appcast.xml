@@ -3,12 +3,12 @@
     <channel>
         <title>Node</title>
         <item>
-            <title>1.5</title>
-            <pubDate>Mon, 31 Mar 2025 10:21:49 -0700</pubDate>
-            <sparkle:version>5</sparkle:version>
-            <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+            <title>1.6</title>
+            <pubDate>Fri, 18 Apr 2025 18:14:31 -0700</pubDate>
+            <sparkle:version>6</sparkle:version>
+            <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AndrewHu-it/Node-App-Updater/releases/download/prod/Version1.5.dmg" length="1283056" type="application/octet-stream" sparkle:edSignature="wf9msB7NlBHJYsz/gdyuaa/paMLI5sfHWwX/0XuOABDrt9gcJ0nLjC8q4axsynNujuloPKnJaJjK229O9trcCg=="/>
+            <enclosure url="https://github.com/AndrewHu-it/Node-App-Updater/releases/download/prod/Version1.6.dmg" length="1312021" type="application/octet-stream" sparkle:edSignature="aSl8lCUZz7BdB2MeAm+uyefuXftawzxQcVW2K+CHWxY/HDcRhO5Fzy2RC7fXQClgkokXBwMivOsuAwGUXzd0CQ=="/>
         </item>
     </channel>
 </rss>

@@ -1,14 +1,14 @@
 <?xml version="1.0" standalone="yes"?>
 <rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
     <channel>
-        <title>Crowd Compute</title>
+        <title>CrowdCompute</title>
         <item>
-            <title>1.10</title>
-            <pubDate>Sun, 18 May 2025 16:54:27 -0700</pubDate>
-            <sparkle:version>10</sparkle:version>
-            <sparkle:shortVersionString>1.10</sparkle:shortVersionString>
+            <title>1.12</title>
+            <pubDate>Tue, 20 May 2025 17:55:23 -0700</pubDate>
+            <sparkle:version>12</sparkle:version>
+            <sparkle:shortVersionString>1.12</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>13.5</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/AndrewHu-it/Node-App-Updater/releases/download/prod/Crowd.Compute.dmg" length="2234178" type="application/octet-stream" sparkle:edSignature="LXzn1F7A/VGsZNTmTK6ZDKpV8idGPhg2yhxlY3YGtvfgQ1qcQHyiQELhwgmZtb8uFStBgPbwU8bEmok3CVAIAA=="/>
+            <enclosure url="https://github.com/AndrewHu-it/Node-App-Updater/releases/download/prod/CrowdCompute.dmg" length="1681662" type="application/octet-stream" sparkle:edSignature="8GLZMX0VJaFbvyeZ/l1+6Qw0JMhb+C4OZrlkJRZtKD10rbUYrffcIKa+lVy7c8yfzO/sxZgG7MR8S+olwSE0Ag=="/>
         </item>
     </channel>
 </rss>
